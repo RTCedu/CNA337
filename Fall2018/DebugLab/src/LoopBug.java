@@ -1,5 +1,5 @@
 /*
-  The loop should print Count every iteration, but only prints at the end..
+  The loop should print Count every iteration, but only prints at the end...
   CNA337
   Zachary Rubin zrubin@rtc.edu
 */
